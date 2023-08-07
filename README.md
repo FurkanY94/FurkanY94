@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Furkan YILMAZOGLU (@FurkanY94)
-Im an engineer, musician and author. 
-- 👀 I’m interested in music, books, travelling, gaming. 
-- 🌱 I’m using, HTML and .css.
-- 💞
-- 📫 How to reach me : https://www.linkedin.com/in/furkan-y%C4%B1lmazo%C4%9Flu-28172a133/
+- 👋 Hi, I’m Furkan YILMAZOGLU,
+- Im an engineer and author. I am a web developer with a Bachelor Degree who, specialized in Front End. 
+- 👀 I’m interested in music, books, travelling, gaming,
+- 🌱 I’m using, HTML and .css. ,
+- 💞 I am looking for a place to share my knowledge, learn new things, and develop powerful, stable web applications that create value.
+- 📫 How to reach me : https://www.linkedin.com/in/furkan-yilmazoglu
                        furkanylmzgl@hotmail.com
 
 <!---
